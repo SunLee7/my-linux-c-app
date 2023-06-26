@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sunlee/C/i2c_test/i2c_test.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/ioctl.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+sys/select.h
+-
+sys/time.h
+-
+errno.h
+-
+string.h
+-
+assert.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+math.h
+-
+

@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc  -lm   CMakeFiles/i2c_test.dir/i2c_test.c.o  -o i2c_test 

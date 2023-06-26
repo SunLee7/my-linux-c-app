@@ -1,0 +1,3 @@
+/home/sunlee/C/i2c_test/CMakeFiles/edit_cache.dir
+/home/sunlee/C/i2c_test/CMakeFiles/rebuild_cache.dir
+/home/sunlee/C/i2c_test/CMakeFiles/i2c_test.dir
