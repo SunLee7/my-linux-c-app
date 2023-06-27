@@ -1,0 +1,1 @@
+aarch64-linux-gnu-gcc -lm   CMakeFiles/e2000-test-1.dir/main.c.o  -o e2000-test-1 

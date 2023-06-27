@@ -1,0 +1,3 @@
+/home/sunlee/my-linux-c-app/230627/CMakeFiles/rebuild_cache.dir
+/home/sunlee/my-linux-c-app/230627/CMakeFiles/edit_cache.dir
+/home/sunlee/my-linux-c-app/230627/CMakeFiles/e2000-test.dir
