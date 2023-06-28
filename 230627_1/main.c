@@ -102,7 +102,8 @@ void main(void)
 
     while(1)
     {
-        seg_display(i++);
+        seg_display(i);
+        if(i++ >= 100) i = 0; 
         sleep(1);
     }
 }
