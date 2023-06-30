@@ -29,6 +29,7 @@ int main(void)
 		sprintf(str_buff, "%d", i);
 		write(fd, str_buff, strlen(str_buff));
 		sleep(1);
+		
 	}
 	// 关闭文件
 	close(fd);	
